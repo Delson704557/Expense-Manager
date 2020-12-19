@@ -1,4 +1,4 @@
-# Expense-Manager
+# Money-Manager
 
 ## Team Member
 1.) Delson Dsouza
